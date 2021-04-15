@@ -1,4 +1,5 @@
 ===============
+
 instawhore
 ===============
 Cut, add, edit, scale, watermark, and endlogo videos to post on instafuck automatically. A great tool for wasting time, not accomplishing anything, and being a slave to social media. 
