@@ -8,7 +8,7 @@ if [ "$#" -lt 2 ]; then
 	echo " "
 	echo "Options:           -p|--preset <preset>  , encoding preset (veryslow, slow, etc.)"
 	echo "                   -u|--upload   ,  upload the file"
-	echo "			--drillroom "
+	echo "			--drillroom (useless) "
 	exit
 fi
 
